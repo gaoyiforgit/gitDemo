@@ -8,5 +8,10 @@
     <artifactId>gitdemo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <maven.complie.source>1.8</maven.complie.source>
+        <maven.complie.target>1.8</maven.complie.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
 </project>
